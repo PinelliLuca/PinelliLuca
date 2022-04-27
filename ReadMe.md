@@ -1,5 +1,9 @@
 Hi 👋 My name is Luca Pinelli
-=============================I am studying computer engineering at the University of Modena and Reggio Emilia--------------------------------------------------------------------------------* 🌍  I'm based in Modena* ✉️  You can contact me at [p.lucapinelli@gmail.com](mailto:p.lucapinelli@gmail.com)
+=============================
+I am studying computer engineering at the University of Modena and Reggio Emilia
+--------------------------------------------------------------------------------* 
+🌍  I'm based in Modena* 
+✉️  You can contact me at [p.lucapinelli@gmail.com](mailto:p.lucapinelli@gmail.com)
 
 ### Skills
 
